@@ -6,7 +6,7 @@ spring:
   application:
     name: ms-venta-service
   datasource:
-    url: jdbc:mysql://localhost:3306/db_ventas?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/db_ventas
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password:
